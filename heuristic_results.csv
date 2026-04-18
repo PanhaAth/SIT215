@@ -1,0 +1,4 @@
+test_case,baseline_cost,enhanced_cost,baseline_nodes,enhanced_nodes,baseline_time,enhanced_time,improvement_pct
+Gate2→DeliveryHub,13,13,8,12,0.0,0.0,-50.0
+BuildingJ→BuildingHD,10,10,12,11,0.0,0.0,8.333333333333332
+Library→Gate1,15,15,17,17,0.0,0.0,0.0
